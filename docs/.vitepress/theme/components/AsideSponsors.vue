@@ -23,6 +23,7 @@ const sponsors = computed(() => {
     class="viteconf"
     href="https://www.youtube.com/playlist?list=PLqGQbXn_GDmkJaoykvHCUmXUPjhgH2bVr"
     target="_blank"
+    rel="noopener noreferrer"
   >
     <img
       width="22"
